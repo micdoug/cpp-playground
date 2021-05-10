@@ -8,6 +8,9 @@ cc_library(
     hdrs = [
         "vector.h",
     ],
+    visibility = [
+        "//visibility:public",
+    ],
 )
 
 cc_binary(

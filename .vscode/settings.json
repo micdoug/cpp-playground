@@ -19,7 +19,15 @@
         "utility": "cpp",
         "valarray": "cpp",
         "variant": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "slist": "cpp",
+        "iterator": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp"
     },
     
 }
